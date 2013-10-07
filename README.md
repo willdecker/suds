@@ -5,3 +5,6 @@ suds
 ====
 
 Customized suds for GAE
+
+More information on Suds available here:
+https://fedorahosted.org/suds/wiki
